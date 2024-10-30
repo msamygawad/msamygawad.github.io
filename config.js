@@ -1,7 +1,7 @@
 window.PorfolioConfig = {
-  name: 'Mohamed Samy',
+  name: 'Mohamed Samy Afifi',
   jobTitle: 'Model Based Design Engineer',
-  jobDescription: '',
+  jobDescription: 'None',
   skills: [
     {
       name: 'JavaScript',
